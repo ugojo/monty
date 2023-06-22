@@ -15,7 +15,7 @@ void pall(stack_t **n_stack, unsigned int nline)
 	tmp = *n_stack;
 	while (tmp)
 	{
-		print("%d\n", tmp->n);
+		printf("%d\n", tmp->n);
 		tmp = tmp->next;
 	}
 }
