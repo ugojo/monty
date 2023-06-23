@@ -7,7 +7,7 @@ arg_t arg = {0, 0};
  * Return: Nothing.
  */
 
-void add(stack **n_stack, unsigned int nline)
+void add_op(stack **n_stack, unsigned int nline)
 {
 	stack_t  *tmp;
 
