@@ -1,7 +1,7 @@
 #include "monty.h"
 
 /**
- * subop - subtracts the top two elements and stores it in second element
+ * sub_op - subtracts the top two elements and stores it in second element
  * @n_stack: pointer to the head node pointer of stack
  * @nline: the line number
  * Return: Nothing.

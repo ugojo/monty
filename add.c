@@ -1,7 +1,7 @@
 #include "monty.h"
 arg_t arg = {0, 0};
 /**
- * addop - adds the top two elements together
+ * add_op - adds the top two elements together
  * @n_stack: pointer to the head node pointer of stack
  * @nline: the line number
  * Return: Nothing.
